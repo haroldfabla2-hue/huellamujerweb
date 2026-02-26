@@ -1,0 +1,63 @@
+/* App-specific styles */
+
+/* Ensure smooth scroll behavior */
+html {
+  scroll-behavior: auto;
+}
+
+/* Pin spacer fix for GSAP */
+.pin-spacer {
+  pointer-events: none !important;
+}
+
+.pin-spacer > * {
+  pointer-events: auto !important;
+}
+
+/* Ensure sections stack properly */
+section {
+  will-change: transform;
+}
+
+/* Card hover effects */
+.section-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.section-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.12);
+}
+
+/* Form input focus states */
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: #D4A03A !important;
+  box-shadow: 0 0 0 3px rgba(212, 160, 58, 0.15) !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .section-card {
+    border-radius: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .section-card {
+    border-radius: 16px;
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
