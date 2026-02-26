@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "program": "Programa",
+    "conferences": "Conferencias",
+    "testimonials": "Testimonios",
+    "contact": "Contacto",
+    "volunteers": "Voluntarios"
+  },
+  "hero": {
+    "label": "PROGRAMA 2026",
+    "headline": "Dejando marca. Creando futuro.",
+    "subheadline": "Capacitación, mentoría y comunidad para emprendedoras que quieren crecer.",
+    "cta": "Únete al programa"
+  },
+  "program": {
+    "headline": "Programa Huella Mujer",
+    "body": "Un proyecto social que fortalece la autonomía económica de mujeres emprendedoras con herramientas de comercio electrónico, desarrollo empresarial y conexión con mercados globales.",
+    "pillars": {
+      "training": {
+        "title": "Formación técnica",
+        "desc": "Plataformas digitales, operaciones y logística."
+      },
+      "mentorship": {
+        "title": "Mentoría",
+        "desc": "Acompañamiento para definir tu modelo de negocio."
+      },
+      "community": {
+        "title": "Comunidad",
+        "desc": "Red de aliadas, oportunidades y visibilidad."
+      }
+    },
+    "link": "Conoce los módulos"
+  },
+  "modules": {
+    "headline": "Módulos del programa",
+    "subheadline": "Aprende a tu ritmo con contenido práctico y mentoría.",
+    "cards": {
+      "marketplaces": {
+        "title": "Marketplaces",
+        "desc": "Publica, precia y gestiona pedidos en mercados digitales."
+      },
+      "social": {
+        "title": "Redes sociales",
+        "desc": "Crea contenido, agenda posts y convierte seguidores en clientes."
+      },
+      "brand": {
+        "title": "Marca y logística",
+        "desc": "Empaque, envíos y una marca que se recuerda."
+      }
+    }
+  },
+  "conferences": {
+    "headline": "Conferencias",
+    "body": "Encuentros presenciales y virtuales para entrenar habilidades, resolver dudas y conectar con otras emprendedoras.",
+    "cta": "Ver próximas fechas"
+  },
+  "testimonials": {
+    "headline": "Testimonios",
+    "subheadline": "Historias de quienes ya dejaron su marca.",
+    "cards": {
+      "lucia": {
+        "name": "Lucía R.",
+        "role": "Textiles, Arequipa",
+        "quote": "Aprendí a vender en marketplaces y dupliqué mis pedidos en tres meses."
+      },
+      "mariana": {
+        "name": "Mariana T.",
+        "role": "Cerámica, Arequipa",
+        "quote": "La mentoría me ayudó a organizar mi tiempo y mi marca."
+      },
+      "sofia": {
+        "name": "Sofía L.",
+        "role": "Joyería, Arequipa",
+        "quote": "Hoy tengo clientes fuera de la ciudad gracias a la comunidad."
+      }
+    }
+  },
+  "speakers": {
+    "headline": "Ponentes",
+    "subheadline": "Especialistas que comparten lo que realmente funciona.",
+    "cards": {
+      "eleanor": {
+        "name": "Eleanor Pera",
+        "role": "Marketing digital y marca"
+      },
+      "joshua": {
+        "name": "Joshua Ford",
+        "role": "Docente de negocios, UCSM"
+      },
+      "marci": {
+        "name": "Marci Senter",
+        "role": "Docente de comunicación, USMP"
+      }
+    }
+  },
+  "impact": {
+    "headline": "Impacto real",
+    "body": "Cada número es una historia de aprendizaje, venta o conexión que cambió un negocio.",
+    "stats": {
+      "trained": {
+        "value": "+1,200",
+        "label": "Mujeres capacitadas"
+      },
+      "improvement": {
+        "value": "+85%",
+        "label": "Mejora en ventas (promedio)"
+      },
+      "partners": {
+        "value": "+40",
+        "label": "Empresas aliadas"
+      }
+    },
+    "cta": "Ser parte del impacto"
+  },
+  "form": {
+    "headline": "Escribe tu historia",
+    "body": "Cuéntanos sobre ti y tu emprendimiento. Te contactaremos con la siguiente convocatoria.",
+    "fields": {
+      "firstname": "Nombre",
+      "lastname": "Apellidos",
+      "phone": "Teléfono",
+      "age": "Edad",
+      "email": "Correo electrónico",
+      "district": "Distrito",
+      "product": "¿Qué producto o servicio ofreces?",
+      "digitalLevel": "¿Qué nivel consideras que tienes en el uso de herramientas digitales?",
+      "motivation": "¿Por qué deseas participar en el proyecto Huella Mujer?"
+    },
+    "options": {
+      "product": {
+        "textiles": "Textiles",
+        "ceramics": "Cerámica",
+        "jewelry": "Joyería",
+        "decor": "Decoración",
+        "food": "Alimentos o productos elaborados",
+        "fashion": "Ropa, accesorios o moda",
+        "eco": "Productos naturales o ecológicos",
+        "services": "Servicios (belleza, educación, otros)",
+        "retail": "Comercio/reventa de productos",
+        "other": "Otros..."
+      },
+      "digitalLevel": {
+        "basic": "Básico",
+        "intermediate": "Intermedio",
+        "advanced": "Avanzado"
+      },
+      "motivation": {
+        "income": "Para mejorar mis ingresos",
+        "learn": "Para aprender a vender por internet",
+        "formalize": "Para formalizar y fortalecer mi emprendimiento",
+        "brand": "Para crear o mejorar mi marca",
+        "markets": "Para acceder a nuevos mercados",
+        "grow": "Para crecer personal y profesionalmente",
+        "other": "Otros..."
+      }
+    },
+    "submit": "Enviar solicitud",
+    "success": "¡Gracias! Tu solicitud ha sido enviada. Te contactaremos pronto."
+  },
+  "volunteers": {
+    "headline": "Únete a Huella Mujer",
+    "body": "Forma parte de nuestro equipo de voluntarios y ayuda a empoderar a mujeres emprendedoras.",
+    "fields": {
+      "fullname": "Nombres y Apellidos",
+      "phone": "Teléfono",
+      "email": "Correo electrónico",
+      "university": "Universidad",
+      "year": "Año que estás cursando",
+      "career": "Carrera Profesional",
+      "experience": "¿Tienes experiencia previa como voluntario?",
+      "availability": "¿Cuál es tu disponibilidad para apoyarnos?",
+      "cv": "Adjúntanos tu CV"
+    },
+    "options": {
+      "university": {
+        "ucsm": "Universidad Católica Santa María",
+        "ucsp": "Universidad Católica San Pablo",
+        "unsa": "Universidad Nacional San Agustín",
+        "continental": "Universidad Continental",
+        "utp": "Universidad Tecnológica del Perú",
+        "lasalle": "Universidad La Salle",
+        "smp": "Universidad San Martín de Porres",
+        "other": "Otros..."
+      },
+      "year": {
+        "first": "Primer Año",
+        "second": "Segundo Año",
+        "third": "Tercer Año",
+        "fourth": "Cuarto Año",
+        "fifth": "Quinto Año"
+      }
+    },
+    "submit": "Enviar postulación",
+    "success": "¡Gracias por tu interés! Revisaremos tu postulación y te contactaremos."
+  },
+  "contact": {
+    "tagline1": "Dejando marca.",
+    "tagline2": "Creando futuro.",
+    "phone": "+51 993 386 255",
+    "email": "huellamujer@gmail.com",
+    "address": "Urbanización Magisterial II F19, Yanahuara",
+    "reference": "Referencia: Estadio Umacollo",
+    "social": "Instagram / TikTok",
+    "hours": {
+      "title": "Horarios de atención",
+      "weekdays": "De lunes a Viernes: 8:00 AM a 18:00 PM",
+      "saturday": "Sábado: 8:00 AM a 12:00 PM"
+    },
+    "cta": "Comunícate con nosotros"
+  },
+  "footer": {
+    "copyright": "© 2026 Huella Mujer. Todos los derechos reservados."
+  },
+  "language": {
+    "es": "Español",
+    "en": "English"
+  }
+}
